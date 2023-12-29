@@ -6,7 +6,7 @@ CCNP Enterprise (I am certified as well with the CCIE written exam Enterprise Co
 https://www.credly.com/badges/c3717af2-823d-4de0-aaaa-21272f06a91e
 
 PaloAlto Remote Network Administrator (Prisma, data center, MSP firewalls)  
-https://www.credly.com/badges/d134c096-39e5-4ed8-acea-b4713ac575e6\
+https://www.credly.com/badges/d134c096-39e5-4ed8-acea-b4713ac575e6
 
 PaloAlto Networks Cybersecurity Certificate  
 https://www.coursera.org/account/accomplishments/professional-cert/NAMDNWJT4BRK
