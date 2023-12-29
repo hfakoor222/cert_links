@@ -1,7 +1,7 @@
 # cert_links
 
 
-{\huge\color{Green}Certifications}$$
+$${\huge\color{Red}Certifications}$$
 
 Oracle SQL Expert  
 https://www.credly.com/badges/c9cc4456-2648-41ba-b5db-d18f051d5a4b/
