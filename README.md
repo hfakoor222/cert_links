@@ -40,7 +40,7 @@ https://www.coursera.org/account/accomplishments/specialization/6NAWCRGG4CQX
 Computer Security and Systems Management Specialization: University Colorado (Coursera)  
 (4 Courses: Linux |Windows Enterprise Servers, Enterprise Security, Virtualization; hands-on labs)
 
-#**Network engineering certs Mines-Télécom:**
+### Network Engineering Courses Mines Télécom
 
 https://openbadgepassport.com/app/badge/info/545635  (Internet Principles)
 
