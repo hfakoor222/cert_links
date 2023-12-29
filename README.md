@@ -1,4 +1,4 @@
-# Certifications
+## Certifications
 Oracle SQL Expert  
 https://www.credly.com/badges/c9cc4456-2648-41ba-b5db-d18f051d5a4b/
 
@@ -40,7 +40,7 @@ https://www.coursera.org/account/accomplishments/specialization/6NAWCRGG4CQX
 Computer Security and Systems Management Specialization: University Colorado (Coursera)  
 (4 Courses: Linux |Windows Enterprise Servers, Enterprise Security, Virtualization; hands-on labs)
 
-**Network engineering certs Mines-Télécom:**
+#**Network engineering certs Mines-Télécom:**
 
 https://openbadgepassport.com/app/badge/info/545635  (Internet Principles)
 
