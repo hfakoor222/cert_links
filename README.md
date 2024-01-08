@@ -40,6 +40,10 @@ https://www.coursera.org/account/accomplishments/specialization/6NAWCRGG4CQX
 Computer Security and Systems Management Specialization: University Colorado (Coursera)  
 (4 Courses: Linux |Windows Enterprise Servers, Enterprise Security, Virtualization; hands-on labs)
 
+Oracle Cloud Foundations Certified Associate
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=EEA46B57205C61CC107C64D385D5C7CC9032E5A29D541C9DDDC37DBCDD8669F1
+
+
 ### Network Engineering Courses Mines Télécom
 
 https://openbadgepassport.com/app/badge/info/545635  (Internet Principles)
