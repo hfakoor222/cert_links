@@ -39,6 +39,10 @@ https://www.coursera.org/account/accomplishments/specialization/6NAWCRGG4CQX
 
 Computer Security and Systems Management Specialization: University Colorado (Coursera)  
 (4 Courses: Linux |Windows Enterprise Servers, Enterprise Security, Virtualization; hands-on labs)
+https://www.coursera.org/account/accomplishments/verify/SVFGAM5JMR9H
+https://www.coursera.org/account/accomplishments/verify/27A757A3547D
+https://www.coursera.org/account/accomplishments/verify/7MZDU7YK8UM5
+https://www.coursera.org/account/accomplishments/verify/UPPLQ7GHLJEJ
 
 Oracle Cloud Foundations Certified Associate
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=EEA46B57205C61CC107C64D385D5C7CC9032E5A29D541C9DDDC37DBCDD8669F1
