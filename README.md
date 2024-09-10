@@ -3,7 +3,9 @@ Oracle SQL Expert
 https://www.credly.com/badges/c9cc4456-2648-41ba-b5db-d18f051d5a4b/
 
 CCNP Enterprise (I am certified as well with the CCIE written exam Enterprise Core)    
-https://www.credly.com/badges/c3717af2-823d-4de0-aaaa-21272f06a91e
+https://www.credly.com/badges/b3a718ee-d83a-43cf-866c-347968dd0766
+
+**CCIE Enterprise Written Certified **  Cert #14357819
 
 PaloAlto Remote Network Administrator (Prisma, data center, MSP firewalls)  
 https://www.credly.com/badges/d134c096-39e5-4ed8-acea-b4713ac575e6
