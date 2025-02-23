@@ -22,7 +22,7 @@ https://www.coursera.org/account/accomplishments/verify/HDW48HPK37SQ
 Juniper Networks Junos Automation and DevOps Specialization  
 https://www.coursera.org/account/accomplishments/specialization/B5KVGGZFW52S
 
-Building Cloud Computing Solutions at Scale, 60 hour Specialization: Duke University (Coursera)  
+Building Cloud Computing Solutions at Scale, 115 hour Specialization: Duke University (Coursera)  
 https://www.coursera.org/account/accomplishments/specialization/4W6Y8TX9TZZG
 
 AWS DevOps Specialization (through AWS)  
