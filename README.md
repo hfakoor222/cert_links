@@ -40,7 +40,8 @@ AWS Advanced Networking ExamPrep Specialty (Coursera)
 https://www.coursera.org/account/accomplishments/specialization/6NAWCRGG4CQX
 
 Computer Security and Systems Management Specialization: University Colorado (Coursera) 
-https://www.coursera.org/account/accomplishments/specialization/7HUOI3T8XNJM
+https://www.coursera.org/account/accomplishments/specialization/7HUOI3T8XNJM  
+
 (4 Courses: Linux |Windows Enterprise Servers, Enterprise Security, Virtualization; hands-on labs)
 https://www.coursera.org/account/accomplishments/verify/SVFGAM5JMR9H
 https://www.coursera.org/account/accomplishments/verify/27A757A3547D
